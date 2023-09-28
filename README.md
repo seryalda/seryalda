@@ -4,7 +4,7 @@
 - 🌱 Constantly learning and exploring new technologies to bring you cutting-edge PCB boards.
 - 💡 Specializing in developing PCB boards for DIYers and electronic hobbyists, we empower you to turn your ideas into reality.
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
-- 📫 Reach out to us through our [website](https://www.seryalda.com/contact) or connect with us on [LinkedIn](https://www.linkedin.com/company/seryalda).
+- 📫 Reach out to us through our [website](https://www.seryalda.com/contact) or connect with us on [LinkedIn](https://www.linkedin.com/in/seryalda-llc-11681b293/).
 
 Let's build the future of electronics together! Explore our repositories and join us on our journey of innovation.
 
