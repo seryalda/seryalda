@@ -5,9 +5,9 @@
 - 💡 Specializing in developing PCB boards for DIYers and electronic hobbyists, we empower you to turn your ideas into reality.
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
 
-- 📫 Microcontroller Mounting Boards [website](https://www.seryalda.com/contact).
-- 📫 Relay Switching Boards [website](https://www.seryalda.com/contact).
-- 📫 Power Distributor Boards [website](https://www.seryalda.com/contact).
+- 📫 [Microcontroller Mounting Boards](https://www.seryalda.com/contact).
+- 📫 [Relay Switching Boards](https://www.seryalda.com/contact).
+- 📫 [ower Distributor Boards](https://www.seryalda.com/contact).
 
 <!--
 📫 Reach out to us through our [website](https://www.seryalda.com/contact) or connect with us on [LinkedIn](https://www.linkedin.com/company/seryalda/).
