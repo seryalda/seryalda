@@ -7,7 +7,7 @@
 
 
 
-- 📫 [RAIL DIN Boards](/RAILDINBOARDS.md).
+- 📫 [RAIL DIN Boardsxx](/RAILDINBOARDS.md).
 
 <!--
 - 📫 [Microcontroller Mounting Boards](https://www.seryalda.com/contact).
