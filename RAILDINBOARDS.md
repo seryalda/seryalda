@@ -1,15 +1,15 @@
 ### 💡 RAIL DIN Boards
 - Relay Drivers
-	- DC Relay Switches (MARVIN)
-	- AC Relay Switches (also known as CONTACTOR) ([DAWG](https://www.seryalda.com/contact))	
+	- DC Relay Switches ([MARVIN](https://github.com/seryalda/marvin))
+	- AC Relay Switches (also known as CONTACTOR) ([DAWG](https://github.com/seryalda/dawg))	
 - MCU Mounting Boards
 	- ESP8266 V2 NodeMCU (Amica)
-	- ESP8266 V3 NodeMCU (Lolin) (FOGHORN)
+	- ESP8266 V3 NodeMCU (Lolin) ([FOGHORN](https://github.com/seryalda/foghorn))
 	- ESP32 (DevKit)  
 	- Arduino Uno R3 (Clone)  		
 - Mini POWER Hub Board
-	- DC Hub (WILE)
-	- AC Hub (SYLVESTER)
+	- DC Hub ([WILE](https://github.com/seryalda/wile))
+	- AC Hub ([SYLVESTER](https://github.com/seryalda/sylvester))
 
 - 📫 [HOME](/)
 
