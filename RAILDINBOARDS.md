@@ -18,7 +18,7 @@ RAIL DIN Boards
 		- DC Hub (WILE)
 		- AC Hub (SYLVESTER)
 
-- 📫 [HOME](/).
+- 📫 [HOME](/)
 
 
 
