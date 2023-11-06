@@ -31,10 +31,35 @@ Check out our latest boards
 📫 [Back](/)
 
 
+## Contributing
+We welcome contributions from the community! If you're interested in contributing, check out our [Contribution Guidelines](link-to-contributing-guide) to get started.
+
+## Contact Us
+- Email: [email@example.com](mailto:email@example.com)
+- Twitter: [@OurHandle](https://twitter.com/OurHandle)
+- Website: [www.ourwebsite.com](https://www.ourwebsite.com)
 
 
 
 
+💡 **RAIL DIN Boards**
+📫 [Browse Here](#rail-din-boards)
+
+🔌 **Relay Drivers:**
+- DC Relay Switches (Codename: MARVIN)
+- AC Relay Switches (A.K.A. CONTACTOR) (Known as: DAWG)
+
+🌟 **MCU Mounting Boards:**
+- ESP8266 V2 NodeMCU (Amica)
+- ESP8266 V3 NodeMCU (Lolin) (Code: FOGHORN)
+- ESP32 (DevKit)
+- Arduino Uno R3 (Clone)
+
+🔋 **Mini POWER Hub Board:**
+- DC Hub (Codename: WILE)
+- AC Hub (Given the Alias: SYLVESTER)
+
+🔗 [Back to Overview](#welcome-to-seryalda-electronics)
 
 
 
