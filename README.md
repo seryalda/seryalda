@@ -4,7 +4,7 @@
 - 🌱 Constantly learning and exploring new ideas to develop PCB boards for DIYers and electronic hobbyists.
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
 
-## Check Out Our Latest Boards:
+## Check Out Our RAIL DIN Boards:
 
 💡 **RAIL DIN Boards**
 
@@ -21,5 +21,7 @@
 🔋 **Mini POWER Hub Board:**
   - DC Hub (Codename: ([WILE](https://github.com/seryalda/wile)))
   - AC Hub (Codename: ([SYLVESTER](https://github.com/seryalda/sylvester)))
+
+## Other Boards:
 
 🔗 [Back to Overview](#welcome-to-seryalda-electronics)
