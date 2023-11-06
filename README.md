@@ -4,7 +4,7 @@
 - 🌱 Constantly learning and exploring new ideas to develop PCB boards for DIYers and electronic hobbyists.
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
 
-
+Check out our latest boards
 <!--
 - 👀 We are passionate about electronics, DIY projects, and IoT innovations.
 - 🌱 Constantly learning and exploring new ideas to develop PCB boards for DIYers and electronic hobbyists.
