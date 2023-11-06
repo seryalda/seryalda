@@ -1,10 +1,10 @@
-### Welcome to Seryalda Electronics - Your Partner in DIY Electronics and IoT Projects! 👋
+# Welcome to Seryalda Electronics - Your Partner in DIY Electronics and IoT Projects! 👋
 
 - 👀 We are passionate about electronics, DIY projects, and IoT innovations.
 - 🌱 Constantly learning and exploring new ideas to develop PCB boards for DIYers and electronic hobbyists.
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
 
-### Check Out Our Latest Boards:
+## Check Out Our Latest Boards:
 
 💡 **RAIL DIN Boards**
 
