@@ -6,16 +6,12 @@
 - 🤝 We're open to collaboration on exciting projects and contributions from the community.
 
 
-
-- 📫 [RAIL DIN Boardsxx](/RAILDINBOARDS.md).
-
-<!--
 - 📫 [Microcontroller Mounting Boards](https://www.seryalda.com/contact).
 - 📫 [Relay Switching Boards](https://www.seryalda.com/contact).
 - 📫 [Power Distributor Boards](https://www.seryalda.com/contact).
 - 📫 [Sensor Boards](https://www.seryalda.com/contact).
 - 📫 [Data Transmitter Boards](https://www.seryalda.com/contact).
--->
+
 
 <!--
 📫 Reach out to us through our [website](https://www.seryalda.com/contact) or connect with us on [LinkedIn](https://www.linkedin.com/company/seryalda/).
