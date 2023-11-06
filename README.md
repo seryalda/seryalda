@@ -22,4 +22,4 @@
 
 ## Other Boards:
 
-🔗 [Back to Overview](#welcome-to-seryalda-electronics)
+🔗 [Back to Overview](#check-out-our-rail-din-boards)
