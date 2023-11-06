@@ -10,7 +10,7 @@
 
 🔌 **Relay Drivers:**
   - DC Relay Switches (Codename: ([MARVIN](https://github.com/seryalda/marvin)))
-  - AC Relay Switches (A.K.A. CONTACTOR) (Known as: ([DAWG](https://github.com/seryalda/dawg)))
+  - AC Relay Switches (Known as: ([DAWG](https://github.com/seryalda/dawg)))
 
 🌟 **MCU Mounting Boards:**
   - ESP8266 V2 NodeMCU (Amica)
