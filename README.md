@@ -10,28 +10,16 @@
 
 🔌 **Relay Drivers:**
   - DC Relay Switches (Codename: ([MARVIN](https://github.com/seryalda/marvin)))
-  - AC Relay Switches (Known as: ([DAWG](https://github.com/seryalda/dawg)))
+  - AC Relay Switches (Codename: ([DAWG](https://github.com/seryalda/dawg)))
 
 🌟 **MCU Mounting Boards:**
   - ESP8266 V2 NodeMCU (Amica)
-  - ESP8266 V3 NodeMCU (Lolin) (Code: ([FOGHORN](https://github.com/seryalda/foghorn)))
+  - ESP8266 V3 NodeMCU (Lolin) (Codename: ([FOGHORN](https://github.com/seryalda/foghorn)))
   - ESP32 (DevKit)
   - Arduino Uno R3 (Clone)
 
 🔋 **Mini POWER Hub Board:**
   - DC Hub (Codename: ([WILE](https://github.com/seryalda/wile)))
-  - AC Hub (Given the Alias: ([SYLVESTER](https://github.com/seryalda/sylvester)))
+  - AC Hub (Codename: ([SYLVESTER](https://github.com/seryalda/sylvester)))
 
 🔗 [Back to Overview](#welcome-to-seryalda-electronics)
-
-
-## Contributing
-We welcome contributions from the community! If you're interested in contributing, check out our [Contribution Guidelines](link-to-contributing-guide) to get started.
-
-## Contact Us
-- Email: [email@example.com](mailto:email@example.com)
-- Twitter: [@OurHandle](https://twitter.com/OurHandle)
-- Website: [www.ourwebsite.com](https://www.ourwebsite.com)
-
-
-
