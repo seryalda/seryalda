@@ -6,8 +6,6 @@
 
 ## Check Out Our RAIL DIN Boards:
 
-💡 **RAIL DIN Boards**
-
 🔌 **Relay Drivers:**
   - DC Relay Switches (Codename: ([MARVIN](https://github.com/seryalda/marvin)))
   - AC Relay Switches (Codename: ([DAWG](https://github.com/seryalda/dawg)))
