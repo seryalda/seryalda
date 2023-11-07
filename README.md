@@ -25,3 +25,40 @@
 ## Other Boards:
 
 🔗 [Up](#top)
+
+
+<!--
+
+1. **Integrated Circuits (IC)**
+2. **Microcontrollers**
+3. **Transformers**
+4. **Batteries**
+5. **Fuses**
+6. **Relays**
+7. **Switches**
+8. **Motors**
+9. **Circuit Breakers**
+10. **Terminals and Connectors**
+11. **Resistors**
+12. **Capacitors**
+13. **Inductive Components (Including Transformers)**
+14. **Piezoelectric Devices (Crystals, Resonators)**
+15. **Diodes**
+16. **Transistors**
+17. **Electrical Wires & Power Cables**
+18. **Solar Cells**
+19. **Light Emitting Diodes (LEDs)**
+20. **Digital and Analog Sensors**
+21. **Current Sensors**
+22. **Voltage Sensors**
+23. **Voltage Meters**
+24. **Current Meters**
+25. **Printed Circuit Boards**
+26. **RAIL DIN PCB Boards for Power Supplies**
+27. **RAIL DIN PCB Boards for Power Distribution**
+28. **RAIL DIN PCB Boards for Relay Switching**
+29. **RAIL DIN PCB Boards for Mounting Microcontrollers**
+30. **RAIL DIN PCB Boards for Interfacing with Sensors**
+31. **RAIL DIN PCB Boards for Interfacing with Computers**
+
+-->
