@@ -9,8 +9,8 @@
 ## Check Out Our RAIL DIN Boards:
 
 🔌 **Relay Drivers:**
-  - DC Relay Driver ([MARVIN](https://github.com/seryalda/marvin))
-  - AC Relay Driver ([DAWG](https://github.com/seryalda/dawg))
+  - ([DAWG](https://github.com/seryalda/dawg)) RAILConnect (AC Relay Driver Board)
+  - ([MARVIN](https://github.com/seryalda/marvin)) RAILConnect (DC Relay Driver Board) 
 
 🌟 **MCU Mounting Boards:**
   - ESP8266 V2 NodeMCU (Amica)
