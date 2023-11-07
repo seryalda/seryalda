@@ -9,18 +9,18 @@
 ## Check Out Our RAIL DIN Boards:
 
 🔌 **Relay Drivers:**
-  - DC Relay Driver (Codename: ([MARVIN](https://github.com/seryalda/marvin)))
-  - AC Relay Driver (Codename: ([DAWG](https://github.com/seryalda/dawg)))
+  - DC Relay Driver ([MARVIN](https://github.com/seryalda/marvin))
+  - AC Relay Driver ([DAWG](https://github.com/seryalda/dawg))
 
 🌟 **MCU Mounting Boards:**
   - ESP8266 V2 NodeMCU (Amica)
-  - ESP8266 V3 NodeMCU (Lolin) (Codename: ([FOGHORN](https://github.com/seryalda/foghorn)))
+  - ESP8266 V3 NodeMCU (Lolin) ([FOGHORN](https://github.com/seryalda/foghorn))
   - ESP32 (DevKit)
   - Arduino Uno R3 (Clone)
 
-🔋 **Mini POWER Hub Board:**
-  - DC RAIL DIN Connect (Codename: ([WILE](https://github.com/seryalda/wile)))
-  - AC RAIL DIN Connect (Codename: ([SYLVESTER](https://github.com/seryalda/sylvester)))
+🔋 **Mini POWER Hub Boards:**
+  - DC RailConnect Hub ([WILE](https://github.com/seryalda/wile))
+  - AC RailConnect Hub ([SYLVESTER](https://github.com/seryalda/sylvester))
 
 ## Other Boards:
 
