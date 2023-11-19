@@ -28,5 +28,6 @@
 <!--
 
 https://www.homemade-circuits.com/efficient-electronic-relay-ssr-circuit/
+https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
 -->
