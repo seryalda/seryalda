@@ -30,4 +30,29 @@
 https://www.homemade-circuits.com/efficient-electronic-relay-ssr-circuit/
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
+about | e-shop | diy blog | community | signin | cart (0) | social
+
+newletter
+subscriptions
+community
+
+
+suggest similar to these, sales enchancement and customer conversions strategies
+
+when member signin, product affiliate link will appear on products
+
+diy blogging for members with product linking
+with affiliate linking
+
+diy blog will create automatic entry in the 
+community forum
+
+when no stock ask customer to add email, to recieve notifications
+for re-stocking
+
+when there is pending in the cart, send reminders to user
+
+when user views product and left, send notification of discount, 
+
+
 -->
