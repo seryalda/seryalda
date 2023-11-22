@@ -55,4 +55,8 @@ when there is pending in the cart, send reminders to user
 when user views product and left, send notification of discount, 
 
 
+https://www.hackster.io/ROBINTHOMAS/esp8266-esp-01-webserver-7248ca
+https://www.instructables.com/Serial-Communication-Between-Arduino-and-ESP-01/
+
+
 -->
