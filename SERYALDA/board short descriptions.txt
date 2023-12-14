@@ -1,0 +1,26 @@
+Absolutely, here are more descriptive summaries for each board:
+
+---
+
+**DAWG - Relay Driver Board for AC Control**
+The DAWG board, measuring 76mm x 86mm, offers a streamlined solution for controlling AC CONTACTORS and Industrial DC Relay Switches using low-voltage controllers such as Arduino or ESP microcontrollers. With two easily mountable screw holes, it ensures effortless installation. This board necessitates an external 5VDC power source and is engineered for projects requiring dependable control of multiple relay switches.
+
+---
+
+**FOGHORN - ESP8266 NodeMCU Expansion Board**
+FOGHORN is a board crafted for seamless integration with ESP8266 NodeMCU V3 modules. With dimensions of 76mm x 86mm, its installation is made simple with two screw holes. This board features female headers for DHT sensor integration and GPIO pin testing, providing an adaptable solution. Additionally, it allows for flexible power options, supporting 5VDC or 12VDC through terminal blocks.
+
+---
+
+**MARVIN - 4-Channel DC Relay Control Board**
+MARVIN, a 76mm x 86mm board, focuses on controlling four DC relay switches, offering user-selectable 5VDC or 12VDC output options. Installation is straightforward with two screw holes. Its input terminals are designed for connection to microcontroller output pins, requiring an external 5VDC power source. Ideal for projects necessitating precise control over DC relay switches.
+
+---
+
+**SYLVESTER - Multi-Output AC Power Distribution Board**
+SYLVESTER streamlines the distribution of AC power for various devices, effectively solving the challenges associated with fused terminal blocks. Sized at 76mm x 86mm, it's equipped with two screw holes for easy mounting. This board includes 2 input and 6 output terminal blocks, each outfitted with individual blow glass fuses for secure and organized power distribution.
+
+---
+
+**WILE - Multi-Voltage DC Power Supply Board**
+WILE, measuring 76mm x 86mm, addresses the need to power up to 9 devices, providing user-selectable 5VDC or 12VDC output. Its straightforward power connection uses a screw terminal block. Offering built-in voltage regulation, this board efficiently converts 12VDC to 5VDC, providing a dual voltage output solution for various project requirements.

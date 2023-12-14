@@ -1,0 +1,88 @@
+**Title: DAWG - 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers**
+[SERYALDA ELECTRONICS][DAWG][v1.0.0][RAIL DIN COMPATIBLE] EASY CONNECT TERMINAL SCREW BLOCKS, 110/220VAC 5/12/24VDC RELAY DRIVER
+
+**Description:**
+The DAWG AC Relay Driver Board is a purpose-built, specialized solution for electronics projects. Measuring 76mm x 86mm, this RAIL DIN board with two screw holes (25mm center to center apart) offers a reliable means to control AC CONTACTORS or Industrial DC Relay Switches with DC voltage exceeding 12VDC. Unlike standard relays, this 4-channel relay driver serves as an intermediary, allowing low-voltage output controllers like Arduino and ESP microcontrollers to effectively activate external DC relay switches using user-selected AC voltages.
+
+Powered by an external 5VDC source, the board simplifies the control of multiple relay switches for diverse applications, making it an ideal choice for various electronic projects.
+
+**Key Features:**
+- 4-channel relay driver board for AC CONTACTORS and Industrial DC Relay Switches.
+- Designed to work with low-voltage output controllers like Arduino and ESP microcontrollers.
+- Enables control of external DC relay switches using user-selected AC voltages.
+- Dimensions: 76mm x 86mm RAIL DIN board with two screw holes.
+- External 5VDC power source for operation.
+- Ideal for applications requiring reliable and efficient relay driving.
+
+---
+
+**Title: FOGHORN - ESP8266 NodeMCU-Compatible Expansion Board**
+[SERYALDA ELECTRONICS][FOGHORN][v1.0.0][RAIL DIN COMPATIBLE] DHT SENSOR HEADER, OUTPUT 4/5/12/14 TERMINALS AND 2 ROWS X 4 PIN HEADER FOR LED TESTER, ANALOG PIN A0 HEADER, ESP8266 NODEMCU V3 MOUNTING EXPANSION BOARD
+
+**Description:**
+FOGHORN is a specialized RAIL DIN board designed for seamless integration with ESP8266 NodeMCU V3 modules. Measuring 76mm x 86mm, this board features two screw holes with 25mm center to center apart, making installation easy. Equipped with 2 rows of 15-pin female headers, it simplifies the mounting of NodeMCU V3 modules.
+
+The board boasts a 5-pin female header, offering the flexibility to integrate a DHT sensor into projects. With 5 terminal screw blocks and male/female headers mapped to GROUND, GPIO pins 4, 5, 12, and 14, users can assign and utilize these pins as output pins for their projects. Additionally, a 10-pin two-row female header allows quick LED testing of the 4, 5, 12, and 14 GPIO pins, facilitating hassle-free functionality checks without complicated wiring.
+
+The inclusion of a 2-pin male and female header mapped to the A0 analog pin of the ESP module simplifies the connection of analog sensors without jumper wires. With two terminal blocks supporting 5VDC or 12VDC power options for the board and ESP module, this board provides a versatile solution for electronics projects.
+
+**Key Features:**
+- Compatible with ESP8266 NodeMCU V3 modules for seamless integration.
+- Includes female headers for DHT sensor integration.
+- Terminal blocks and male/female headers mapped to GROUND, GPIO pins for user flexibility.
+- 10-pin female header for LED testing of GPIO pins, enabling easy functionality checks.
+- 2-pin header for simplified connection of analog sensors to the A0 pin.
+- Dual power options (5VDC/12VDC) for versatile project requirements.
+
+---
+
+**Title: MARVIN - 4-Channel DC Relay Driver Board with Voltage Jumper Settings**
+[SERYALDA ELECTRONICS][MARVIN][v1.0.0][RAIL DIN COMPATIBLE] 4 CHANNEL DC RELAY DRIVER W/ JUMPER SELECT 5VDC OR 12VDC
+
+**Description:**
+MARVIN is a specialized RAIL DIN board measuring 76mm x 86mm, featuring two screw holes with 25mm center-to-center distance, designed for 4-channel DC relay driving. Unlike standard relays, MARVIN facilitates the output of user-selected DC voltages (with jumper settings for 5VDC or 12VDC) to activate external DC relay switches.
+
+The board includes input terminals—WJ124-3.81-5P-14-00A and Header-Female-2.54_1x5, DZ254R-11-05-63—connected to the microcontroller's output pins. Powered by an external 5VDC source, this relay driver offers a specialized solution for various electronics projects.
+
+**Key Features:**
+- 4-channel DC relay driver with jumper settings for 5VDC or 12VDC output.
+- Input terminals connected to microcontroller output pins.
+- Designed for activating external DC relay switches using user-selected DC voltages.
+- Dimensions: 76mm x 86mm RAIL DIN board with screw holes for easy installation.
+- Powered by an external 5VDC source for reliable performance.
+
+---
+
+**Title: SYLVESTER - Multi-Output RAIL DIN Board with Fused Terminal Blocks**
+SYLVESTER - Multi-Output AC RAIL DIN Board with Fused Terminal Blocks
+[SERYALDA ELECTRONICS][SYLVESTER][v1.0.0][RAIL DIN COMPATIBLE] MULTI-OUTPUT AC DISTRIBUTOR TERMINAL BLOCKS W/ 6MMX20MM BLOW GLASS FUSE METAL HOLDER
+[SERYALDA ELECTRONICS][MARVIN][v1.0.0][RAIL DIN COMPATIBLE] 4 CHANNEL DC RELAY DRIVER W/ JUMPER SELECT 5VDC OR 12VDC
+
+**Description:**
+SYLVESTER is a specialized RAIL DIN board that solves the common problem of distributing AC power for DIY electronic projects. Measuring 76mm x 86mm, it features two screw holes, making installation convenient. The board comprises 2 input screw terminal blocks with blow glass fuses and 6 output screw terminal blocks, each assigned with a blow glass fuse for individual protection.
+
+This board streamlines the distribution of AC power for multiple devices, eliminating the need for multiple circuit breakers or terminal blocks. Each output terminal block ensures safe power distribution with individual fused protection.
+
+**Key Features:**
+- RAIL DIN board designed for distributing AC power to multiple devices.
+- Features 2 input screw terminal blocks with blow glass fuses for protection.
+- Includes 6 output screw terminal blocks, each with individual blow glass fuses.
+- Streamlines power distribution without the need for multiple circuit breakers or terminal blocks.
+- Provides safe and organized power distribution for DIY electronic projects.
+
+---
+
+**Title: WILE - Multi-Voltage RAIL DIN Board with Voltage Regulation**
+[SERYALDA ELECTRONICS][WILE][v1.0.0][RAIL DIN COMPATIBLE] MULTI-OUTPUT DC DISTRIBUTOR TERMINAL BLOCKS W/ BUILT-IN VOLTAGE REGULATOR CONVERTS 12VDC TO 5VDC TO SUPPLY BOARDS TWO VOLTAGE LEVELS, SUPPORTS UP TO 8 DC DEVICES
+
+**Description:**
+WILE is a specialized RAIL DIN board designed to address the challenge of supplying power to multiple DC devices. Measuring 76mm x 86mm, the board features a screw terminal block for connecting a 12VDC source, providing power to the WILE board. Offering support for up to 9 devices, users can select between 5VDC or 12VDC output using jumper settings.
+
+The board includes a built-in voltage regulator that converts the 12VDC source to 5VDC, enabling dual voltage output, which is beneficial for various project requirements.
+
+**Key Features:**
+- RAIL DIN board for supplying power to multiple DC devices.
+- Support for up to 9 devices with user-selectable 5VDC or 12VDC output.
+- Built-in voltage regulator for converting 12VDC to 5VDC for dual voltage output.
+- Dimensions: 76mm x 86mm with screw holes for easy installation.
+- Solves the challenge of powering multiple DC devices with selectable voltage output.

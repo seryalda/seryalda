@@ -1,0 +1,36 @@
+Certainly! Here are lists outlining "Things you need to know" for each of the mentioned boards:
+
+### DAWG - 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers
+- **Power Requirements:** Ensure a stable external 5VDC power source for optimal operation.
+- **Voltage Limitations:** Verify the DC voltage does not exceed 12VDC for controlling AC CONTACTORS or Industrial DC Relay Switches.
+- **Compatible Controllers:** Intended for use with low-voltage output controllers such as Arduino and ESP microcontrollers.
+- **Size Consideration:** Dimensions are 76mm x 86mm, so ensure adequate space for installation.
+- **Relay Switches:** Use appropriate relay switches compatible with the board for desired functionality.
+
+### FOGHORN - ESP8266 NodeMCU-Compatible Expansion Board
+- **Module Compatibility:** Designed specifically for seamless integration with ESP8266 NodeMCU V3 modules.
+- **Header Pinouts:** Familiarize yourself with the specific pin mapping and functionalities of the headers for effective utilization.
+- **Power Options:** Select between 5VDC and 12VDC power options for both the board and ESP module as required.
+- **Additional Sensor Integration:** Utilize the provided female headers for integrating a DHT sensor for expanded functionalities.
+- **LED Testing:** Use the designated 10-pin female header for hassle-free LED testing without complex wiring.
+
+### MARVIN - 4-Channel DC Relay Driver Board with Voltage Jumper Settings
+- **Voltage Configuration:** Adjust the jumper settings for user-selected DC voltages (5VDC or 12VDC) based on your project requirements.
+- **Input Terminals:** Connect the specified input terminals to the microcontroller's output pins for seamless functionality.
+- **Size and Mounting:** The board's dimensions are 76mm x 86mm with two screw holes for convenient installation.
+- **Power Source:** Ensure an external 5VDC power source to maintain the board's reliable performance.
+- **Compatible Relay Switches:** Select appropriate external DC relay switches that align with the board's specifications.
+
+### SYLVESTER - Multi-Output RAIL DIN Board with Fused Terminal Blocks
+- **AC Power Distribution:** Utilize the board for streamlined AC power distribution to multiple devices for DIY projects.
+- **Fused Protection:** Each output screw terminal block has individual blow glass fuses for safe power distribution.
+- **Installation:** The board comes with two screw holes for convenient and easy installation on the RAIL DIN system.
+- **Eliminating Circuit Breakers:** This board replaces the need for multiple circuit breakers or terminal blocks in your setup.
+- **Safe Power Distribution:** Provides organized and safe power distribution, ensuring the protection of connected devices.
+
+### WILE - Multi-Voltage RAIL DIN Board with Voltage Regulation
+- **Power Supply Configuration:** Use the screw terminal block to connect a 12VDC source to power the WILE board.
+- **Support for Multiple Devices:** This board supports up to 9 devices with user-selectable 5VDC or 12VDC output using jumper settings.
+- **Voltage Regulation:** The built-in voltage regulator converts the 12VDC source to 5VDC for dual voltage output, serving varied project requirements.
+- **Dimensions and Mounting:** The board measures 76mm x 86mm and includes screw holes for easy installation.
+- **Versatile Power Solutions:** Resolve the challenge of powering multiple DC devices by utilizing the dual voltage output.

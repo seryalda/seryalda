@@ -1,0 +1,86 @@
+Certainly! Here are the revised product information and usage guides for each item:
+
+---
+
+**Product Information and Guides:**
+
+**DAWG - 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers**
+
+Product Information:
+- The DAWG board is designed to control AC CONTACTORS or Industrial DC Relay Switches using low-voltage controllers like Arduino or ESP microcontrollers.
+- Size: 76mm x 86mm with two screw holes (25mm apart) for easy installation.
+- It requires an external 5VDC source for power.
+- Suitable for projects that require reliable control of multiple relay switches.
+
+Usage Guide:
+1. Connect the DAWG board to your Arduino or ESP microcontroller using the specified input/output pins.
+2. Ensure to power the board with an external 5VDC source for proper functionality.
+3. Use jumper settings to select the appropriate AC voltage to activate external DC relay switches.
+4. Mount the board securely using the provided screw holes for stability.
+
+---
+
+**FOGHORN - ESP8266 NodeMCU-Compatible Expansion Board**
+
+Product Information:
+- FOGHORN integrates seamlessly with ESP8266 NodeMCU V3 modules for expanded functionalities.
+- Size: 76mm x 86mm with two screw holes for straightforward installation.
+- Features female headers for DHT sensor connection and GPIO pin testing.
+- Provides power options of 5VDC or 12VDC through terminal blocks.
+
+Usage Guide:
+1. Connect the FOGHORN board to the ESP8266 NodeMCU V3 module using the specified female headers.
+2. Utilize the available GPIO pins for your project requirements, and test functionalities using the LED testing feature.
+3. Choose the appropriate power supply option (5VDC or 12VDC) as needed for your setup.
+4. Securely attach the board by fastening it through the provided screw holes.
+
+---
+
+**MARVIN - 4-Channel DC Relay Driver Board with Voltage Jumper Settings**
+
+Product Information:
+- MARVIN is designed to control four DC relay switches with user-selectable 5VDC or 12VDC output.
+- Size: 76mm x 86mm with two screw holes for convenient installation.
+- Connect input terminals to microcontroller output pins for control.
+- Requires an external 5VDC source for operation.
+
+Usage Guide:
+1. Connect MARVIN's input terminals to your microcontroller's output pins for functionality.
+2. Use jumper settings to select the desired output voltage (5VDC or 12VDC) for controlling DC relay switches.
+3. Ensure the board is powered by an external 5VDC source to function correctly.
+4. Install the board securely by fastening it through the provided screw holes.
+
+---
+
+**SYLVESTER - Multi-Output RAIL DIN Board with Fused Terminal Blocks**
+
+Product Information:
+- SYLVESTER simplifies the distribution of AC power for multiple devices using fused terminal blocks.
+- Size: 76mm x 86mm with two screw holes for easy mounting.
+- Provides safe power distribution without the need for multiple circuit breakers.
+- Includes 2 input and 6 output screw terminal blocks, each with individual blow glass fuses.
+
+Usage Guide:
+1. Use SYLVESTER's input and output terminal blocks for distributing AC power to various devices.
+2. Ensure each output terminal block is appropriately fused for safety during power distribution.
+3. Mount the board securely using the provided screw holes for stability.
+4. Avoid the use of multiple circuit breakers by relying on the board's fused terminal blocks for safe power distribution.
+
+---
+
+**WILE - Multi-Voltage RAIL DIN Board with Voltage Regulation**
+
+Product Information:
+- WILE is designed to power up to 9 devices with user-selectable 5VDC or 12VDC output.
+- Size: 76mm x 86mm with a screw terminal block for easy power connection.
+- Includes a built-in voltage regulator that converts 12VDC to 5VDC for dual voltage output.
+
+Usage Guide:
+1. Connect the WILE board to power devices with selectable voltage output (5VDC or 12VDC).
+2. Utilize the built-in voltage regulator to ensure a stable power supply to the connected devices.
+3. Mount the board securely by connecting the screw terminal block to the power source.
+4. Choose the appropriate voltage output setting based on the requirements of the connected devices.
+
+---
+
+These guides provide information about each product's features and instructions on how to effectively use them for your projects.
